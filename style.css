@@ -1,0 +1,94 @@
+/* CSS Document */
+*
+.hero-image {
+  background-image: url("3305327.jpg"); /* The image used */
+ /* background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.hero-image2 {
+  background-image: url("adam-birkett-wxYumuhIDU8-unsplash.jpg"); /* The image used */
+ /* background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: repeat-y; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.hero-image3 {
+  background-image: url("joel-filipe-TmSYx44Y0QY-unsplash.jpg"); /* The image used */
+ /* background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.font{
+	color: darkslategray;
+}
+.logo{
+
+	width: 120px;
+	height: 120px;
+}
+.font1{
+	text-align: right;	
+	font-family: AlemandraSC;
+}
+.Screenshots{
+	
+}
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #858EAD;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.ScreenShots{
+	align-self: center;
+}
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #677298;
+  color: white;
+}
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
