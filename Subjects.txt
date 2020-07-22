@@ -12,3 +12,15 @@ LS
 Math
 Math Lit
 Physical Science
+
+Afrikaans
+isiZulu
+English
+Economics and Management Science
+Social Science
+Arts and crafts
+Natural Science
+Life Orientatoin
+Mathematics
+Technology
+
