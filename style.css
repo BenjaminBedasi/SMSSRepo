@@ -1,7 +1,7 @@
 /* CSS Document */
 *
 .hero-image {
-  background-image: url("3305327.jpg"); /* The image used */
+  background-image: url("annie-spratt-s1N_aVIviqA-unsplash.jpg"); /* The image used */
  /* background-color: #cccccc; /* Used if the image is unavailable */
   height: 500px; /* You must set a specified height */
   background-position: center; /* Center the image */
@@ -9,7 +9,7 @@
   background-size: cover; /* Resize the background image to cover the entire container */
 }
 .hero-image2 {
-  background-image: url("adam-birkett-wxYumuhIDU8-unsplash.jpg"); /* The image used */
+  background-image: url("brandi-redd-aJTiW00qqtI-unsplash.jpg"); /* The image used */
  /* background-color: #cccccc; /* Used if the image is unavailable */
   height: 500px; /* You must set a specified height */
   background-position: center; /* Center the image */
@@ -17,7 +17,7 @@
   background-size: cover; /* Resize the background image to cover the entire container */
 }
 .hero-image3 {
-  background-image: url("joel-filipe-TmSYx44Y0QY-unsplash.jpg"); /* The image used */
+  background-image: url("jj-ying-7JX0-bfiuxQ-unsplash.jpg"); /* The image used */
  /* background-color: #cccccc; /* Used if the image is unavailable */
   height: 500px; /* You must set a specified height */
   background-position: center; /* Center the image */
